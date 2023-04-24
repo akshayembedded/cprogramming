@@ -1,0 +1,16 @@
+#include <stdio.h>
+int main ()
+{
+ /* local variable definition */
+ int a = 100;
+ int b = 200;
+  if( a == 100 && b==200 )
+ {
+ 
+ /* if condition is true then print the following */
+ printf("Value of a is 100 and b is 200\n" );
+ }
+ printf("Exact value of a is : %d\n", a );
+ printf("Exact value of b is : %d\n", b );
+ return 0;
+}

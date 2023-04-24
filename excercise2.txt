@@ -1,0 +1,7 @@
+Excercise Questions (For and while)
+Using both for loop and while loop
+1. User has to give End value, 
+    We need to print starting from zero to end value
+2. User has to give start and end value.
+    Print start from start value to end value
+

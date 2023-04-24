@@ -1,0 +1,8 @@
+Write a program for storing 10 user inputs
+a) then print all odd numbers in the list
+b) then print all even numbers in the list
+c) 
+Odd numbers
+print all odd numbers in the list
+Even numbers
+Print all even numbers in the list
